@@ -2,7 +2,7 @@
  "Generate-Thy-Password"
 
 # Deployment
-Live URL: 
+Live URL: https://nhastings1.github.io/Generate-Thy-Password/
 
 # Goal
 
@@ -16,6 +16,7 @@ Deploy URL and click the button that says "Generate Password".
 ![step-1 screenshot](./Assets/step-1.png)
 ## Step 2
 Enter password character length and hit "ok".
+
 ![step-2 screenshot](./Assets/step-2.png)
 
 ## Step 3
